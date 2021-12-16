@@ -17,3 +17,11 @@ TỔNG QUAN VỀ HỆ THỐNG DỮ LIỆU
 	- Bài toán 1: Đề xuất người dùng với content - based filtering
 	- Bài toán 2: Đề xuất người dùng với Collaborative filtering
 
+![image](https://user-images.githubusercontent.com/96172322/146415476-ce0a79ea-e838-4fd0-97e5-330e14fa53da.png)
+
+![image](https://user-images.githubusercontent.com/96172322/146415610-86022c11-4e38-4e55-8b1a-4e48bf618077.png)
+
+![image](https://user-images.githubusercontent.com/96172322/146415624-897d4784-93ac-4e7a-a468-f8200c439d97.png)
+
+![image](https://user-images.githubusercontent.com/96172322/146415654-6338df50-36f7-4b9d-ab80-4855ddf62979.png)
+
