@@ -6,4 +6,3 @@ scipy
 seaborn
 sklearn
 pyspark
-findspark
