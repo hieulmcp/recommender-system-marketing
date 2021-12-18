@@ -1,8 +1,6 @@
 streamlit
 pandas
 datetime
-matplotlib
 scipy
-seaborn
 sklearn
 pyspark
